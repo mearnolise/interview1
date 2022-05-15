@@ -1,0 +1,12 @@
+body{
+  margin: 0px;
+  caret-color: rgba(0,0,0,0);
+
+}
+
+.all-body{
+  height: 100vh;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}

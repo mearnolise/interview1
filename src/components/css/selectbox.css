@@ -1,0 +1,22 @@
+.select-background-container{
+    position: relative;
+    height: 40px;
+    width: 280px;
+    padding: 20px;
+    margin: auto;
+}
+.select-box-container{
+    
+ 
+    height: 40px;
+    
+    padding: 20px 40px;
+    
+}
+.select-box{
+    
+    height: 40px;
+    width: 200px;
+    border-radius: 10px;
+    text-align: center;
+}

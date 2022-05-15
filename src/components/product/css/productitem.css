@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+.product-box{
+    height: 400px;
+    width: 270px;
+    background-color: white;
+    position: relative;
+    margin: 20px;
+    overflow:auto;
+}
+.picture-box{
+    background-color: black;
+    height: 240px;
+    margin: 8px 8px;  
+}
+.product-pic{
+    height: 240px;
+    width: 254px;
+}
+
+.sale{
+    position: absolute;
+    height: 32px;
+    width: 140px;
+    background-color: #FFA500;
+    bottom: 150px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.Name-text-box{
+    position: absolute;
+    height: 30px;
+    left: 15px;
+    bottom: 122px;
+    font-size: 11px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.description-box{
+    position: absolute;
+    left: 15px;
+    bottom: 85px;
+    font-size: small;
+    font-family: 'Itim', cursive;
+}
+
+.text-start-price{
+    position: absolute;
+    bottom: 30px;
+    left: 15px;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'Itim', cursive;
+    color: #FFA500;;
+}
+
+.text-price{
+    text-decoration: line-through;
+    position: absolute;
+    height: 8px;
+    bottom: 10px;
+    left: 70px;
+    font-size: 15px;
+    font-family: 'Itim', cursive;
+}
+
+.text-price2{
+    position: absolute;
+    height: 8px;
+    bottom: 10px;
+    left: 15px;
+    font-size: 18px;
+    font-family: 'Itim', cursive;
+    color: #FFA500;
+
+}
+

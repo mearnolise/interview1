@@ -1,0 +1,18 @@
+.list-body{
+    
+    padding-top: 55px ;
+    text-align: center;
+}
+
+.list-container{
+    
+    display: flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    width: 70%;
+    margin: auto;
+    gap: 30px;
+
+
+
+}

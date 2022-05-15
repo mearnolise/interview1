@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Mitr:wght@200&display=swap');
+
+.navbar-container{
+    height: 3rem;
+    background-color: #F5F5F5;
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+
+
+  }
+  .navbar-button-container{
+    width: 60%;
+    display: flex;
+    justify-content: flex-end;
+    
+}
+
+.button-box{
+    height: 100%;
+    margin: auto 10px;
+
+    
+}
+
+
+.button-login{
+    height: 50px;
+    width: 100px;
+    background-color: #FF8C00;
+    border: none;
+    color: white;
+    border-radius: 8px;
+    font-family: 'Mitr', sans-serif;
+}
+
+.toggle-button-box{
+    margin: auto 1.5rem;
+    height: fit-content;
+
+
+}
+
